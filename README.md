@@ -1,3 +1,7 @@
+STUDENT INFO:
+NAME: Divya Pothuru
+NetworkId:DXP62920
+
 # Assignment1
 
 VIDEO-LINK:https://drive.google.com/file/d/19xa3tgkGL2Bs3q0uo2zrz0p18sKL_pGw/view?usp=share_link
