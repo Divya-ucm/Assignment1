@@ -1,4 +1,7 @@
 # Assignment1
+
+VIDEO-LINK:https://drive.google.com/file/d/19xa3tgkGL2Bs3q0uo2zrz0p18sKL_pGw/view?usp=share_link
+
 1. Write a python program for the following:
 – Input the string “Python” as a list of characters from console, delete at least 2 characters, reverse the
 resultant string and print it.
